@@ -1,4 +1,8 @@
 _repo: The-Heart-of-the-Ancient-Wood_47671
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47671-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -12,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: A little girl named Miranda living with her mother in the Canadian wilderness
   is befriended by a bear named Kroof.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47671#The-Heart-of-the-Ancient-Wood
 gutenberg_issued: '2014-12-15'
 gutenberg_type: Text
 identifiers:
